@@ -3,7 +3,7 @@ The main aim of Placement Experience Sharing System Project is to allow final ye
 
 # Setup Instructions
 ```
-git clone 
+git clone https://github.com/Notorious97/Placement-Experience-Blog.git
 cd Placement-Experience-Blog
 pip install -r requirements.txt
 python run.py
